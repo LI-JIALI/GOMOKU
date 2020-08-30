@@ -17,3 +17,4 @@ pip install tkinter
 python3 gomoku.py
 ```
 ## Référence
+An Introduction to Tkinter (Work in Progress): http://effbot.org/tkinterbook/
