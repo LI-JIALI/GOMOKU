@@ -13,6 +13,7 @@ pip3 install
 pip3 install tkinter
 ```
 Le module Tkinter ("Tk interface") de Python permet de créer des interfaces graphiques. J'utilise le module tkinter.messagebox qui permet de fournir un assortiment de fenêtres de dialogue pour des tâches simples, afin d'afficher le message du gagnant à la fin.
+
 ✓ Assurez-vous que le module Pillow est installé:
 ```shell
 pip3 install Pillow
