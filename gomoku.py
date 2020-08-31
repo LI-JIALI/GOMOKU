@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from tkinter import *
-import tkinter.messagebox #tkinter,messagebox fournit un assortiment de fenêtres de dialogue pour des tâches simples
-from PIL import Image, ImageTk  #Pillow est une bibliothèque de traitement d'image
+import tkinter.messagebox 
+from PIL import Image, ImageTk  
 import time
 import os
 
