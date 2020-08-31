@@ -6,11 +6,15 @@ Gomoku est un jeu d’échec stratégique à 2 joueurs. Les 2 joueurs doivent pl
 ## Installation
 ✓ Assurez-vous que python 3 est installé:
 ```shell
-pip install 
+pip3 install 
 ```
 ✓ Assurez-vous que le module tkinter est installé:
 ```shell
-pip install tkinter
+pip3 install tkinter
+```
+✓ Assurez-vous que le module Pillow est installé:
+```shell
+pip3 install Pillow
 ```
 ## Exécution
 ```shell
